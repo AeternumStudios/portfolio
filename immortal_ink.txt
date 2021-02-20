@@ -1,5 +1,5 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- spanner -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- spanner -->codenerve.txt<br/><br/>
+<span id="a">ink@immortal</span>:<span id="b">~</span><span id="c">$</span> cd aeternum/<!-- spanner -->website
+<span id="a">ink@immortal</span>:<span id="b">~</span><span id="c">$</span> cat <!-- spanner -->home_page.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- spanner -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- spanner --><p>You can see that, this is how your portfolio would look like.</p>
