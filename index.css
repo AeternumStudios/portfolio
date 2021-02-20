@@ -31,7 +31,8 @@ a {
 }
 
 #k {
-    	animation: change 1s;
+    text-shadow: 0 0 10px rgb(255, 255, 255);	
+	animation: change 3s;
 }
 
 #op{
@@ -40,7 +41,8 @@ a {
 
 @keyframes change {
     	0%  { color:  rgb(0, 195, 255); }
-    	50% { color:  rgb(0, 195, 255); }
+    	25% { color:  rgb(255, 0, 234); }
+		50% { color:  rgb(0, 195, 255); }
     	99% { color:  rgb(0, 0, 0); }
 }
 
